@@ -1,0 +1,13 @@
+.top-padded {
+    margin-top: 1.0em;
+}
+
+.small-avatar {
+    height: 40px;
+    width: 40px;
+}
+
+.smaller-avatar {
+    height: 20px;
+    width: 20px;
+}
